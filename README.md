@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Dev (he/him)
 - 👀 I'm doing math and physics at the University of Lethbridge
-- 🌱 I like coding and data science
+- 🌱 I like coding 
 - 🔭: I do research in astrophysics
 <!---
 devkhullar/devkhullar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
